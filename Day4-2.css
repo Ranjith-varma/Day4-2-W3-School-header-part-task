@@ -1,0 +1,351 @@
+.full{
+    display: flex;
+    /* background-color: lightgray; */
+}
+img{
+    width: 70px;
+    display: inline-block;
+    
+}
+.deta1{
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 20px;
+    margin-top: 30px;
+    
+    
+    
+}
+.sum1:hover{
+    transform: scale(1.1);
+    background-color: green;
+    color: white;
+}
+.div2{
+    display: inline-block;
+    margin-left:    10px;
+    font-size: 20px;
+    background-color: white;
+    margin-top: 30px;
+}
+.sum2:hover{
+    transform: scale(1.1);
+    background-color: green;
+    color: white;
+}
+
+.div3{
+    display: inline-block;
+    margin-left:10px;
+    font-size: 20px;
+    background-color: white;
+    margin-top: 30px;
+}
+.sum3:hover{
+    transform: scale(1.1);
+    background-color: green;
+    color: white;
+}
+
+.div4{
+    display: inline-block;
+    margin-left:10px;
+    font-size: 20px;
+    background-color: white;
+    margin-top: 30px;
+}
+.sum4:hover{
+    transform: scale(1.1);
+    background-color: green;
+    color: white;
+}
+input{
+    margin-left:20px;
+    border-radius: 40px;
+    margin-top: 30px;
+
+}
+.div6{
+    margin-left:20px;
+    /* margin-top: 5px; */
+    margin-top: 30px;
+    font-size: 20px;
+}
+.div6:hover{
+    transform: scale(0.5);
+    background-color: lightslategray;
+    color: white;
+}
+
+.div7{
+    margin-left:20px;
+    margin-top: 30px;
+    font-size: 20px;
+    
+}
+.div7:hover{
+    transform: scale(1.1);
+    background-color: lightslategray;
+    color: white;
+}
+.div8{
+    margin-left:30px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.div8:hover{
+    transform: scale(1.1);
+    background-color: lightslategray;
+    color: white;
+}
+.div9{
+    margin-left:30px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.div9:hover{
+    transform: scale(1.1);
+    background-color: lightslategray;
+    color: white;
+}
+.div10{
+    margin-left:30px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.div10:hover{
+    transform: scale(1.1);
+    background-color: lightslategray;
+    color: white;
+}
+button{
+    border-radius: 50px;
+    width: 100px;
+    height: 50px;
+    margin-left: 10px;
+    background-color: green;    
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+}
+.but{
+    background-color: gray;
+}
+/* .but:hover{
+    transform: scale(1.1);
+    background-color: gray;
+    margin-left: 50px;
+    margin-right:50px ;
+} */
+.sec2{
+    background-color: rgba(0, 0, 0, 0.507);
+    color: white;
+    height: 400px;
+    margin-top: 20px;
+    padding-top: 0%;
+}
+.div-1{
+font-size:25px;
+margin-top: -10px;
+margin-left: 30px;
+margin-bottom: 390px;
+display: inline-block;
+}
+.div-1:hover{
+    transform: scale(1.07);
+    background-color:gray;
+}
+.div-2{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: -10px;
+    margin-left: 20px;
+    }
+ .div-2:hover{
+    transform: scale(1.07);
+    background-color:gray;
+ }   
+.div-3{
+display: inline-block;
+font-size: 25px;
+margin-top: -10px;
+margin-left: 20px;
+}
+.div-3:hover{
+    transform: scale(1.07);
+    background-color:gray;
+}
+.div-4{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: -10px;
+    margin-left: 20px;
+    }
+ .div-4:hover{
+    transform: scale(1.07);
+    background-color:gray;
+ }   
+    .div-5{
+        display: inline-block;
+        font-size: 25px;
+        margin-top: 10px;
+        margin-left: 20px;
+        }
+ .div-5:hover{
+    transform: scale(1.07);
+    background-color:gray;
+ }       
+.div-6{
+display: inline-block;
+font-size: 25px;
+margin-top: 10px;
+margin-left: 20px;
+ }
+ .div-6:hover{
+    transform: scale(1.07);
+    background-color:gray;
+ }      
+ .div-7{
+display: inline-block;
+font-size: 25px;
+margin-top: 10px;
+margin-left: 20px;
+ } 
+ .div-7:hover{
+    transform: scale(1.07);
+    background-color:gray;
+     } 
+     .div-8{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+     }
+ .div-8:hover{
+    transform: scale(1.07);
+    background-color:gray;
+ }    
+.div-9{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 20px;   
+}
+.div-9:hover{
+    transform: scale(1.07);
+    background-color:gray;
+}
+.div-10{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.div-10:hover{
+    transform: scale(1.07);
+    background-color:gray;
+}
+.div-11{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.div-11:hover{
+    transform: scale(1.07);
+    background-color:gray;
+}
+.div-12{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.div-12:hover{
+    transform: scale(1.07);
+    background-color:gray;
+}
+.div-13{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.div-13:hover{
+    transform: scale(1.07);
+    background-color:gray;
+}
+.div-14{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.div-14:hover{
+    transform: scale(1.07);
+    background-color:gray;
+}
+.div-15{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.div-15:hover{
+    transform: scale(1.07);
+    background-color:gray;
+}
+.div-16{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.div-16:hover{
+    transform: scale(1.07);
+    background-color:gray;
+}
+.div-17{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.div-17:hover{
+    transform: scale(1.07);
+    background-color:gray;
+}
+.div-18{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.div-18:hover{
+    transform: scale(1.07);
+    background-color:gray;
+}
+.div-19{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.div-19:hover{
+    transform: scale(1.07);
+    background-color:gray;
+}
+.div-20{
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.div-20:hover{
+    transform: scale(1.07);
+    background-color:gray;
+}
+.end{
+    color: white;
+    
+}
